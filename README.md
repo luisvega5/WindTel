@@ -1,6 +1,6 @@
-University of Puerto Rico at Mayaguez
-
 # WindTel: An Embedded System Design Course Project ICOM4217
+
+University of Puerto Rico at Mayaguez
 
 Proffesors affiliated:
 
