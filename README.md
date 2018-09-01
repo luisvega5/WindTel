@@ -2,7 +2,7 @@
 
 University of Puerto Rico at Mayaguez
 
-Proffesors affiliated:
+Professors affiliated:
 
 Dr. Manuel Rodriguez, Electrical and Computer Engineering Department
 
