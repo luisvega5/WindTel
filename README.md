@@ -17,3 +17,5 @@ Nelson G. Rodriguez Ortiz
 Kahlil J. Fonseca Garcia
 
 Misael Valentín Feliciano
+
+Project Blog: https://gonewiththewindtunnel.wordpress.com/
